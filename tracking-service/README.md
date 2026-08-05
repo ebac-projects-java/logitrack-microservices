@@ -1,7 +1,5 @@
 # Tracking Service
 
-LogiTrack - Logistics Management Microservices
-
 Microsserviço responsável pelo rastreamento das entregas.
 
 ## Responsabilidades
